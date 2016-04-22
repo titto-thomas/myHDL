@@ -1,0 +1,13 @@
+Example 2 : 32-bit counter with variable max_count
+
+	counter32.py :
+				The main file containing the 32-bit counter block and functions to generate VHDL & Verilog codes
+	counter32_tb.py :
+				The testbench for simulating counter32
+	Makefile :
+				Automated simulation of this example
+				Usage :
+						make clean
+						make 
+	README :
+				This file
