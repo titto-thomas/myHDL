@@ -1,0 +1,13 @@
+Example 1 : D Flip Flop
+
+	dff.py :
+				The main file containing the DFF block anf functions to generate VHDL & Verilog codes
+	dff_tb.py :
+				The testbench for simulating DFF
+	Makefile :
+				Automated simulation of this example
+				Usage :
+						make clean
+						make 
+	README :
+				This file
